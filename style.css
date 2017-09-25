@@ -117,6 +117,7 @@ video {
 
 
 
+
 /* HTML5 display-role reset for older browsers */
 
 article,
@@ -168,6 +169,7 @@ h2 {
 
 
 
+
 /*fonts*/
 
 .mono {
@@ -177,6 +179,7 @@ h2 {
 .copy {
     font-family: 'Georgia', serif;
 }
+
 
 
 
@@ -197,6 +200,10 @@ h2 {
 .nav-links li {
     display: inline-block;
     padding: 25px 20px;
+}
+
+.nav-links span {
+    color: #14e9b6;
 }
 
 .nav-link {
